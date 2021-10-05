@@ -1,6 +1,16 @@
 # SinemApp
 
-A Mobile & Web Flutter project.
+Used pubs
+
+ - dio
+ - bloc
+ - rxdart
+ - eva_icons_flutter
+ - flutter_rating_bar
+ - font_awesome_flutter
+ - page_indicator
+ - sliver_fab
+ - youtube_player_flutter
 
 ![SinemApp](https://raw.github.com/hakankoralturk/SinemApp/master/screenshot.png)
 
